@@ -26,6 +26,8 @@ When users want to write an object into Greenfield, they or the client software 
 
 ```shell
 make install-tools
+brew install bufbuild/buf/buf
+brew install protoc-gen-gogofaster
 ```
 
 ### Build
